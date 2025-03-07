@@ -86,8 +86,7 @@
     
     ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/scalarmulti.png)
    
-3.  **矩阵乘法**（行乘列，需要 Am×nA_{m \times n}Am×n​ 的列数等于 Bn×pB_{n \times p}Bn×p​ 的行数）：
-    
+3.  **矩阵乘法**（行乘列，需要 Am×nA_{m \times n}Am×n​ 的列数等于 Bn×pB_{n \times p}Bn×p​ 的行数）：    
     ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/multi.png)
    
 4.  **矩阵转置（Transpose）**（行变列，列变行）：
@@ -105,7 +104,7 @@
 -   **神经网络**：权重和输入都是矩阵，神经网络训练时涉及大量矩阵运算。
 -   **线性回归**：可以用矩阵求解模型的参数： Y=XW+bY = XW + bY=XW+b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTkwNDY5MiwxMjMyNzM3MDc1LDM0ND
-E4MzQ5OSwtNTU0Nzk4ODQ4LC0xMTM2Njk3Mjg2LDI0NDU0Mzc3
-NywtOTY4MzIxNDI1LC0yNTYwNjU3NzhdfQ==
+eyJoaXN0b3J5IjpbLTIwMTk2MjE1MzQsMTIzMjczNzA3NSwzND
+QxODM0OTksLTU1NDc5ODg0OCwtMTEzNjY5NzI4NiwyNDQ1NDM3
+NzcsLTk2ODMyMTQyNSwtMjU2MDY1Nzc4XX0=
 -->
