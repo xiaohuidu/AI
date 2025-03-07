@@ -29,13 +29,14 @@
 	-   **数学表示**：    
 	    -   用小写粗体字母或带箭头的符号表示，如：**v\mathbf{v}v** 或 		**v⃗\vec{v}v**。
 		    -   例子：
-        -   **二维向量**（平面上的点）： v=[34]\mathbf{v} = \begin{bmatrix} 3 \\ 4 \end{bmatrix}v=[34​]
-        -   **三维向量**（空间中的点）： v=[123]\mathbf{v} = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix}v=​123​​
+        -   **二维向量**（平面上的点）： 
+        -   **三维向量**（空间中的点）： 
 	-   **特性**：    
 		   -   既有**大小**，又有**方向**。
 		   -   在计算机中通常用**数组（list, NumPy array）**表示，如 `[3, 4]` 或 `[1, 2, 3]`。
 -   **矩阵**（matrix）：矩阵是**一个二维数组**，其中的每一个元素被两个索引所确定。如果一个实数矩阵高度为m，宽度为n，那么我们说A∈Rm×nA∈Rm×n。
 -   **张量**（tensor）：在某些情况下，我们会讨论坐标超过两维的数组。一般地，一个数组中的元素分布在若干维坐标的规则网格中，我们称之为张量。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODMyMTQyNSwtMjU2MDY1Nzc4XX0=
+eyJoaXN0b3J5IjpbLTI2Mzc4NTk4MiwtOTY4MzIxNDI1LC0yNT
+YwNjU3NzhdfQ==
 -->
