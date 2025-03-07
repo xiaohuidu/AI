@@ -63,10 +63,10 @@
 
 ## **2. 矩阵的维度**
 
-矩阵的维度（大小）通常表示为 **m×nm \times nm×n**，其中：
+矩阵的维度（大小）通常表示为 **m*n**，其中：
 
--   **mmm** = 行数
--   **nnn** = 列数
+-   **m** = 行数
+-   **n** = 列数
 
 常见矩阵类型：
 
@@ -104,7 +104,7 @@
 -   **神经网络**：权重和输入都是矩阵，神经网络训练时涉及大量矩阵运算。
 -   **线性回归**：可以用矩阵求解模型的参数： Y=XW+bY = XW + bY=XW+b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjQyNzcyOSwtNTU0Nzk4ODQ4LC0xMT
-M2Njk3Mjg2LDI0NDU0Mzc3NywtOTY4MzIxNDI1LC0yNTYwNjU3
-NzhdfQ==
+eyJoaXN0b3J5IjpbMzY2NzUzNjU3LC01NTQ3OTg4NDgsLTExMz
+Y2OTcyODYsMjQ0NTQzNzc3LC05NjgzMjE0MjUsLTI1NjA2NTc3
+OF19
 -->
