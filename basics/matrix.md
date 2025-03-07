@@ -56,7 +56,7 @@
     -   列（Column）：矩阵的纵向元素。
     -   元素（Element）：矩阵中的每个数值，通常表示为 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/aij.png)，其中 i 是行号，j 是列号。
     
-    例如，**A2,3=6A_{2,3} = 6A2,3​=6**，表示第 2 行第 3 列的值是 6。
+    例如，![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/a23.png)，表示第 2 行第 3 列的值是 6。
     
 
 ----------
@@ -104,7 +104,7 @@
 -   **神经网络**：权重和输入都是矩阵，神经网络训练时涉及大量矩阵运算。
 -   **线性回归**：可以用矩阵求解模型的参数： Y=XW+bY = XW + bY=XW+b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2MjA0MjI4LC01NTQ3OTg4NDgsLTExMz
-Y2OTcyODYsMjQ0NTQzNzc3LC05NjgzMjE0MjUsLTI1NjA2NTc3
-OF19
+eyJoaXN0b3J5IjpbLTMxNjQyNzcyOSwtNTU0Nzk4ODQ4LC0xMT
+M2Njk3Mjg2LDI0NDU0Mzc3NywtOTY4MzIxNDI1LC0yNTYwNjU3
+NzhdfQ==
 -->
