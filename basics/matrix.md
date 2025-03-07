@@ -50,7 +50,7 @@
 -   **数学表示**：  
     矩阵通常用大写字母表示，如 **A,B,C**。  
     例如，下面是一个 2×3（2 行 3 列）的矩阵：
-    
+    ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/Matrix.svg)
    
 -   **表示方式**：
     
@@ -106,6 +106,6 @@
 -   **神经网络**：权重和输入都是矩阵，神经网络训练时涉及大量矩阵运算。
 -   **线性回归**：可以用矩阵求解模型的参数： Y=XW+bY = XW + bY=XW+b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3OTY0NjEyLDI0NDU0Mzc3NywtOTY4Mz
-IxNDI1LC0yNTYwNjU3NzhdfQ==
+eyJoaXN0b3J5IjpbLTkwNDc1MTEwOCwyNDQ1NDM3NzcsLTk2OD
+MyMTQyNSwtMjU2MDY1Nzc4XX0=
 -->
