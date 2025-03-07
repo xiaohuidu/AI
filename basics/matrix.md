@@ -102,10 +102,11 @@
 -   **数据存储**：数据集通常表示为矩阵，每一行是一个样本，每一列是一个特征（如身高、体重）。
 -   **图像处理**：图像是一个像素值矩阵（灰度图是 2D，彩色图是 3D）。
 -   **神经网络**：权重和输入都是矩阵，神经网络训练时涉及大量矩阵运算。
--   **线性回归**：可以用矩阵求解模型的参数： ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/param.png)
+-   **线性回归**：可以用矩阵求解模型的参数： 
+- ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/param.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDY5Njk0LC0xNjU1Mjg5NzExLC0yMD
-E5NjIxNTM0LDEyMzI3MzcwNzUsMzQ0MTgzNDk5LC01NTQ3OTg4
-NDgsLTExMzY2OTcyODYsMjQ0NTQzNzc3LC05NjgzMjE0MjUsLT
-I1NjA2NTc3OF19
+eyJoaXN0b3J5IjpbLTE4NjA1NTc0MDUsLTE2NTUyODk3MTEsLT
+IwMTk2MjE1MzQsMTIzMjczNzA3NSwzNDQxODM0OTksLTU1NDc5
+ODg0OCwtMTEzNjY5NzI4NiwyNDQ1NDM3NzcsLTk2ODMyMTQyNS
+wtMjU2MDY1Nzc4XX0=
 -->
