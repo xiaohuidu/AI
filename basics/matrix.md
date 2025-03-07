@@ -48,10 +48,10 @@
 ## **1. 矩阵的定义**
 
 -   **数学表示**：  
-    矩阵通常用大写字母表示，如 **A,B,CA, B, CA,B,C**。  
-    例如，下面是一个 2×32 \times 32×3（2 行 3 列）的矩阵：
+    矩阵通常用大写字母表示，如 **A,B,C**。  
+    例如，下面是一个 2×3（2 行 3 列）的矩阵：
     
-    A=[123456]A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}A=[14​25​36​]
+   
 -   **表示方式**：
     
     -   行（Row）：矩阵的横向元素。
@@ -106,6 +106,6 @@
 -   **神经网络**：权重和输入都是矩阵，神经网络训练时涉及大量矩阵运算。
 -   **线性回归**：可以用矩阵求解模型的参数： Y=XW+bY = XW + bY=XW+b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDExMzg3NSwyNDQ1NDM3NzcsLTk2OD
-MyMTQyNSwtMjU2MDY1Nzc4XX0=
+eyJoaXN0b3J5IjpbNzE3OTY0NjEyLDI0NDU0Mzc3NywtOTY4Mz
+IxNDI1LC0yNTYwNjU3NzhdfQ==
 -->
