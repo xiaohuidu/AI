@@ -4,7 +4,7 @@
 将一些元素排列成若干行，每行放上相同数量的元素，就是一个矩阵（Matrix）。
 数学上，一个 m×n 的矩阵是一个由m行和n列元素排列成的矩形阵列。
 矩阵里的元素可以是数字、符号或数学式。
-
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/Matrix.svg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTAyNzIwN119
+eyJoaXN0b3J5IjpbMzc1NjMzMzQ1XX0=
 -->
