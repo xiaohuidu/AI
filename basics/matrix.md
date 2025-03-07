@@ -6,6 +6,10 @@
 矩阵里的元素可以是数字、符号或数学式。
 
 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/Matrix.svg)
+
+我们通常用大写字母来表示矩阵，例如：A，B，C。用带下标的小写字母描述矩阵中的元素，例如：AijAij。
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA5NTQxOTNdfQ==
+eyJoaXN0b3J5IjpbLTE2MTE2Mjg3ODRdfQ==
 -->
