@@ -80,18 +80,19 @@
 
 1.  **矩阵加法和减法**（要求矩阵大小相同）：
     
-    A+B=[1234]+[5678]=[681012]A + B = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} + \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix} = \begin{bmatrix} 6 & 8 \\ 10 & 12 \end{bmatrix}A+B=[13​24​]+[57​68​]=[610​812​]
+    ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/add.png)
+    
 2.  **标量乘法**（矩阵中的每个元素乘以一个数）：
     
-    2×A=2×[1234]=[2468]2 \times A = 2 \times \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} = \begin{bmatrix} 2 & 4 \\ 6 & 8 \end{bmatrix}2×A=2×[13​24​]=[26​48​]
+    
+   
 3.  **矩阵乘法**（行乘列，需要 Am×nA_{m \times n}Am×n​ 的列数等于 Bn×pB_{n \times p}Bn×p​ 的行数）：
     
-    [1234]×[5678]=[1×5+2×71×6+2×83×5+4×73×6+4×8]=[19224350]\begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} \times \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix} = \begin{bmatrix} 1 \times 5 + 2 \times 7 & 1 \times 6 + 2 \times 8 \\ 3 \times 5 + 4 \times 7 & 3 \times 6 + 4 \times 8 \end{bmatrix} = \begin{bmatrix} 19 & 22 \\ 43 & 50 \end{bmatrix}[13​24​]×[57​68​]=[1×5+2×73×5+4×7​1×6+2×83×6+4×8​]=[1943​2250​]
+   
 4.  **矩阵转置（Transpose）**（行变列，列变行）：
     
-    AT=[1234]T=[1324]A^T = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}^T = \begin{bmatrix} 1 & 3 \\ 2 & 4 \end{bmatrix}AT=[13​24​]T=[12​34​]
+ 
 
-----------
 
 ## **4. 矩阵在 AI 和机器学习中的应用**
 
@@ -102,7 +103,7 @@
 -   **神经网络**：权重和输入都是矩阵，神经网络训练时涉及大量矩阵运算。
 -   **线性回归**：可以用矩阵求解模型的参数： Y=XW+bY = XW + bY=XW+b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjczNzA3NSwzNDQxODM0OTksLTU1ND
-c5ODg0OCwtMTEzNjY5NzI4NiwyNDQ1NDM3NzcsLTk2ODMyMTQy
-NSwtMjU2MDY1Nzc4XX0=
+eyJoaXN0b3J5IjpbLTExMTA2MDY5ODMsMTIzMjczNzA3NSwzND
+QxODM0OTksLTU1NDc5ODg0OCwtMTEzNjY5NzI4NiwyNDQ1NDM3
+NzcsLTk2ODMyMTQyNSwtMjU2MDY1Nzc4XX0=
 -->
