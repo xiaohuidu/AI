@@ -69,8 +69,8 @@
 -   **n** = 列数
 
 常见矩阵类型：
--   **行向量（Row Vector）**：只有 1 行，形如 **1×n1 \times n1×n**（如 [2,3,4][2, 3, 4][2,3,4]）
--   **列向量（Column Vector）**：只有 1 列，形如 **m×1m \times 1m×1**（如 [234]\begin{bmatrix} 2 \\ 3 \\ 4 \end{bmatrix}​234​​）
+-   **行向量（Row Vector）**：只有 1 行，形如 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/rowrector.png)
+-   **列向量（Column Vector）**：只有 1 列，形如 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/columnvector.png)
 -   **方阵（Square Matrix）**：行数等于列数，如 **3×33 \times 33×3** 矩阵。
 
 ----------
@@ -103,7 +103,7 @@
 -   **神经网络**：权重和输入都是矩阵，神经网络训练时涉及大量矩阵运算。
 -   **线性回归**：可以用矩阵求解模型的参数： Y=XW+bY = XW + bY=XW+b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MTgzNDk5LC01NTQ3OTg4NDgsLTExMz
-Y2OTcyODYsMjQ0NTQzNzc3LC05NjgzMjE0MjUsLTI1NjA2NTc3
-OF19
+eyJoaXN0b3J5IjpbNTkwMTc5MSwzNDQxODM0OTksLTU1NDc5OD
+g0OCwtMTEzNjY5NzI4NiwyNDQ1NDM3NzcsLTk2ODMyMTQyNSwt
+MjU2MDY1Nzc4XX0=
 -->
