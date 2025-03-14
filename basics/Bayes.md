@@ -5,7 +5,9 @@
 贝叶斯定理的核心思想是：**后验概率 = 先验概率 × 证据调整因子**。
 
 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/Bayers.png)
+
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/deduce.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njg5MDg3MzAsLTEwMDY2OTU4NTRdfQ
+eyJoaXN0b3J5IjpbLTEzOTkwMjg1NDIsLTEwMDY2OTU4NTRdfQ
 ==
 -->
