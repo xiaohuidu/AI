@@ -109,8 +109,11 @@
 -   **神经网络**：权重和输入都是矩阵，神经网络训练时涉及大量矩阵运算。
 -   **线性回归**：可以用矩阵求解模型的参数： 
 - ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/param.png)
+
+
+# 特征
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzk2MDM4MywxMjM3ODQwOTA2LC0xOD
+eyJoaXN0b3J5IjpbMTE5NTM0Mzk3MiwxMjM3ODQwOTA2LC0xOD
 YwNTU3NDA1LC0xNjU1Mjg5NzExLC0yMDE5NjIxNTM0LDEyMzI3
 MzcwNzUsMzQ0MTgzNDk5LC01NTQ3OTg4NDgsLTExMzY2OTcyOD
 YsMjQ0NTQzNzc3LC05NjgzMjE0MjUsLTI1NjA2NTc3OF19
