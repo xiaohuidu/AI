@@ -111,10 +111,11 @@
 - ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/param.png)
 
 
-# 特征
+# 特征值（Eigenvalue）和特征向量（Eigenvector）
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTM0Mzk3MiwxMjM3ODQwOTA2LC0xOD
-YwNTU3NDA1LC0xNjU1Mjg5NzExLC0yMDE5NjIxNTM0LDEyMzI3
-MzcwNzUsMzQ0MTgzNDk5LC01NTQ3OTg4NDgsLTExMzY2OTcyOD
-YsMjQ0NTQzNzc3LC05NjgzMjE0MjUsLTI1NjA2NTc3OF19
+eyJoaXN0b3J5IjpbMzE1Nzc4NTE4LDEyMzc4NDA5MDYsLTE4Nj
+A1NTc0MDUsLTE2NTUyODk3MTEsLTIwMTk2MjE1MzQsMTIzMjcz
+NzA3NSwzNDQxODM0OTksLTU1NDc5ODg0OCwtMTEzNjY5NzI4Ni
+wyNDQ1NDM3NzcsLTk2ODMyMTQyNSwtMjU2MDY1Nzc4XX0=
 -->
