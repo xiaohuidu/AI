@@ -100,7 +100,7 @@
 
 ## **5. 矩阵在 AI 和机器学习中的应用**
 
-
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/matrix_usage.png)
 
 矩阵在 AI 和 ML 中无处不在，例如：
 
@@ -110,7 +110,7 @@
 -   **线性回归**：可以用矩阵求解模型的参数： 
 - ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/param.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTMwMzcyNiwxMjM3ODQwOTA2LC0xOD
+eyJoaXN0b3J5IjpbMTIwNzk2MDM4MywxMjM3ODQwOTA2LC0xOD
 YwNTU3NDA1LC0xNjU1Mjg5NzExLC0yMDE5NjIxNTM0LDEyMzI3
 MzcwNzUsMzQ0MTgzNDk5LC01NTQ3OTg4NDgsLTExMzY2OTcyOD
 YsMjQ0NTQzNzc3LC05NjgzMjE0MjUsLTI1NjA2NTc3OF19
