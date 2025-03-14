@@ -113,11 +113,14 @@
 
 # 特征值（Eigenvalue）和特征向量（Eigenvector）
 
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/1a.png)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjY1NjgxOCwxMjM3ODQwOTA2LC0xOD
-YwNTU3NDA1LC0xNjU1Mjg5NzExLC0yMDE5NjIxNTM0LDEyMzI3
-MzcwNzUsMzQ0MTgzNDk5LC01NTQ3OTg4NDgsLTExMzY2OTcyOD
-YsMjQ0NTQzNzc3LC05NjgzMjE0MjUsLTI1NjA2NTc3OF19
+eyJoaXN0b3J5IjpbLTc1NTYyMjgzOCwxOTEyNjU2ODE4LDEyMz
+c4NDA5MDYsLTE4NjA1NTc0MDUsLTE2NTUyODk3MTEsLTIwMTk2
+MjE1MzQsMTIzMjczNzA3NSwzNDQxODM0OTksLTU1NDc5ODg0OC
+wtMTEzNjY5NzI4NiwyNDQ1NDM3NzcsLTk2ODMyMTQyNSwtMjU2
+MDY1Nzc4XX0=
 -->
