@@ -6,6 +6,8 @@
 -   **连续概率分布**：用概率密度函数（PDF）表示。
 
 概率分布的本质是量化随机现象的不确定性，帮助我们预测事件发生的可能性。
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY2MDgyMzNdfQ==
+eyJoaXN0b3J5IjpbMTc4Mjg0MzYzNV19
 -->
