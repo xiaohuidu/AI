@@ -94,8 +94,11 @@
     ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/transpose.png)
  
 
+## 4. 特殊矩阵
 
-## **4. 矩阵在 AI 和机器学习中的应用**
+
+
+## **5. 矩阵在 AI 和机器学习中的应用**
 
 矩阵在 AI 和 ML 中无处不在，例如：
 
@@ -105,8 +108,8 @@
 -   **线性回归**：可以用矩阵求解模型的参数： 
 - ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/param.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA1NTc0MDUsLTE2NTUyODk3MTEsLT
-IwMTk2MjE1MzQsMTIzMjczNzA3NSwzNDQxODM0OTksLTU1NDc5
-ODg0OCwtMTEzNjY5NzI4NiwyNDQ1NDM3NzcsLTk2ODMyMTQyNS
-wtMjU2MDY1Nzc4XX0=
+eyJoaXN0b3J5IjpbLTIxNDQ0NjYyNzUsLTE4NjA1NTc0MDUsLT
+E2NTUyODk3MTEsLTIwMTk2MjE1MzQsMTIzMjczNzA3NSwzNDQx
+ODM0OTksLTU1NDc5ODg0OCwtMTEzNjY5NzI4NiwyNDQ1NDM3Nz
+csLTk2ODMyMTQyNSwtMjU2MDY1Nzc4XX0=
 -->
