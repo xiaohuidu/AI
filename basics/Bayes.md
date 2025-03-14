@@ -7,7 +7,13 @@
 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/Bayers.png)
 
 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/deduce.png)
+
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/example1.png)
+
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/example2.png)
+
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/extension.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkwMjg1NDIsLTEwMDY2OTU4NTRdfQ
-==
+eyJoaXN0b3J5IjpbMTIyNDM4NTc0LC0xMzk5MDI4NTQyLC0xMD
+A2Njk1ODU0XX0=
 -->
