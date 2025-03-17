@@ -7,7 +7,10 @@
 
 概率分布的本质是量化随机现象的不确定性，帮助我们预测事件发生的可能性。
 
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/171.png)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Mjg0MzYzNV19
+eyJoaXN0b3J5IjpbNzg5ODI1ODcwLDE3ODI4NDM2MzVdfQ==
 -->
