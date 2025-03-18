@@ -10,7 +10,10 @@
 
 机器学习大致分为三类：**监督学习**、**无监督学习**和**强化学习**。下面重点讲监督和无监督。
 
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/186.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTkzOTMyMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE0MDYyNTM5MzcsLTIwODg3NDY2MTJdfQ
+==
 -->
