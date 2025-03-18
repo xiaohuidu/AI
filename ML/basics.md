@@ -19,8 +19,12 @@
 -   **监督学习**：最常见，解决具体问题，如图像识别、语音翻译。
 -   **无监督学习**：处理大数据，挖掘未知规律，比如推荐系统（“你可能喜欢这些电影”）。
 
+### 什么是深度学习？
+
+深度学习是机器学习的一种，通过多层神经网络从数据中学习复杂模式。让我们用一个简单的“神经网络图”来解释。
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzM0ODk4NiwxNTcyMzg0MTcwLC0xND
-A2MjUzOTM3LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMjExMjI4MTg4LDE1NzIzODQxNzAsLTE0MD
+YyNTM5MzcsLTIwODg3NDY2MTJdfQ==
 -->
