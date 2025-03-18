@@ -14,8 +14,11 @@
 
 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/187.png)
 
+### 在AI中的意义
 
+-   **监督学习**：最常见，解决具体问题，如图像识别、语音翻译。
+-   **无监督学习**：处理大数据，挖掘未知规律，比如推荐系统（“你可能喜欢这些电影”）。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0MzcwMjgxLC0xNDA2MjUzOTM3LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTU3MjM4NDE3MCwtMTQwNjI1MzkzNywtMj
+A4ODc0NjYxMl19
 -->
