@@ -12,8 +12,10 @@
 
 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/186.png)
 
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/187.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYyNTM5MzcsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMjg0MzcwMjgxLC0xNDA2MjUzOTM3LC0yMD
+g4NzQ2NjEyXX0=
 -->
