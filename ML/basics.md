@@ -23,9 +23,20 @@
 
 深度学习（Deep Learning, DL）是机器学习的一个子领域，它模仿人脑的神经网络结构，通过多层计算来从数据中提取复杂的模式和特征。简单来说，它是“更深”的机器学习，能处理更复杂的问题，比如识别图片中的猫、翻译语言，甚至生成艺术作品。
 让我们用一个简单的“神经网络图”来解释。
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/191.png)
+
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/192.png)
+
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/193.png)
+
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/194.png)
+
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/195.png)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0ODYyNjU3LDIxMTIyODE4OCwxNTcyMz
-g0MTcwLC0xNDA2MjUzOTM3LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTg4NTI0ODQ2LDgxNDg2MjY1NywyMTEyMj
+gxODgsMTU3MjM4NDE3MCwtMTQwNjI1MzkzNywtMjA4ODc0NjYx
+Ml19
 -->
