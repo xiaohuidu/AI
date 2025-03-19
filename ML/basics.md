@@ -21,10 +21,10 @@
 
 ### 什么是深度学习？
 
-深度学习是机器学习的一种，通过多层神经网络从数据中学习复杂模式。让我们用一个简单的“神经网络图”来解释。
+深度学习（Deep Learning, DL）是机器学习的一个子领域，它模仿人脑的神经网络结构，通过多层计算来从数据中提取复杂的模式和特征。简单来说，它是“更深”的机器学习，能处理更复杂的问题，比如识别图片中的猫、翻译语言，甚至生成艺术作品。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjI4MTg4LDE1NzIzODQxNzAsLTE0MD
-YyNTM5MzcsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTU3NzY5NDQwMSwyMTEyMjgxODgsMTU3Mj
+M4NDE3MCwtMTQwNjI1MzkzNywtMjA4ODc0NjYxMl19
 -->
