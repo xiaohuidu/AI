@@ -33,8 +33,10 @@
 LLM教程
 对于大多数人来说，没必要专门学习LLM的知识，最多学一下Prompt Engineering就够了。就像我们不需要学习iOS和安卓的底层系统，只需要知道有哪些便捷的系统功能即可。
 
-优秀的LLM教程
-因个人公众号无法插入超链接，请点击最底部的“阅读原文”来查看链接。
+
+================================
+
+**优秀的LLM教程**
 
 · 3Blue1Brown视频教程
 
@@ -116,5 +118,6 @@ LLM的未来
 • 多 token 预测，Meta 发布的多 token 预测方法，一次预测多个 token 而不是单个 token ，可以提升 LLM 的逻辑能力，很有发展前景。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjAzODA0NiwtMTkwOTExMTUzNl19
+eyJoaXN0b3J5IjpbLTIwMjcyNTI5MDUsMTU4MjAzODA0NiwtMT
+kwOTExMTUzNl19
 -->
