@@ -125,7 +125,35 @@ Transformer 解码器的整体架构，具体可参考如下所示：
 
 然而，需要注意的是，Transformer 神经网络取代了早期的循环神经网络(RNN)、长短期记忆(LSTM)和门控循环单元(GRU)等模型，成为了更为先进和有效的选择。
 
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/246.jpg)
+
+
+通常而言，Transformer 神经网络接受输入句子并将其编码为两个不同的序列：
+
+#### 1.词向量嵌入序列
+
+词向量嵌入是文本的数字表示形式。在这种情况下，神经网络只能处理转换为嵌入表示的单词。字典中的单词在嵌入表示中表示为向量。
+
+#### 2.位置编码器序列
+
+位置编码器将原始文本中单词的位置表示为向量。Transformer 将词向量嵌入和位置编码结合起来。然后，它将组合结果发送到各个编码器，然后是解码器。
+
+与 RNN 和 LSTM 按顺序提供输入不同，Transformer 同时提供输入。每个编码器将其输入转换为另一个向量序列，称为编码。
+
+解码器以相反的顺序工作。它将编码转换回概率，并根据概率生成输出单词。通过使用 softmax 函数，Transformer 可以根据输出概率生成句子。
+
+每个解码器和编码器中都有一个称为注意力机制的组件。它允许一个输入单词使用其他单词的相关信息进行处理，同时屏蔽不包含相关信息的单词。
+
+为了充分利用 GPU 提供的并行计算能力，Transformer 使用多头注意力机制进行并行实现。多头注意力机制允许同时处理多个注意力机制，从而提高计算效率。
+
+相比于 LSTM 和 RNN，Transformer 深度学习模型的优势之一是能够同时处理多个单词。这得益于 Transformer 的并行计算能力，使得它能够更高效地处理序列数据。
+
+### 五、常见的 Transformer 模型
+
+截止目前，Transformer 是构建世界上大多数最先进模型的主要架构之一。它在各个领域取得了巨大成功，包括但不限于以下任务：语音识别到文本转换、机器翻译、文本生成、释义、问答和情感分析。这些任务中涌现出了一些最优秀和最著名的模型。
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTgzNjczNzAsODU4NjEyMzYyLDEwMT
-Q4NzE2MjksNDAzNTQ5MTA1LC01OTU3NjUxMTRdfQ==
+eyJoaXN0b3J5IjpbLTE3MzUyNTY0MzMsLTEzMTgzNjczNzAsOD
+U4NjEyMzYyLDEwMTQ4NzE2MjksNDAzNTQ5MTA1LC01OTU3NjUx
+MTRdfQ==
 -->
