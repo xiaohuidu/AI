@@ -152,7 +152,7 @@ Transformer 解码器的整体架构，具体可参考如下所示：
 
 截止目前，Transformer 是构建世界上大多数最先进模型的主要架构之一。它在各个领域取得了巨大成功，包括但不限于以下任务：语音识别到文本转换、机器翻译、文本生成、释义、问答和情感分析。这些任务中涌现出了一些最优秀和最著名的模型。
 
-![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/247.jpghttps://github.com/xiaohuidu/AI/blob/master/images/247.jpg)
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/247.jpg)
 
 
 #### 1.BERT(双向编码器表示的 Transformer )
@@ -179,7 +179,8 @@ BERT 的成功标志着 Transformer 架构在 NLP 领域的重要地位，并在
 GPT-3 的性能提升得益于其庞大的参数规模和更先进的架构设计。它通过在大规模文本数据上进行预训练，使得模型能够学习到更深入、更全面的语言知识，从而使得 GPT-3 能够成为目前最强大、最先进的生成式预训练 Transformer 模型之一。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzIyMjQ3NywtMTg5MzE5NTQwNiwtMT
-czNTI1NjQzMywtMTMxODM2NzM3MCw4NTg2MTIzNjIsMTAxNDg3
-MTYyOSw0MDM1NDkxMDUsLTU5NTc2NTExNF19
+eyJoaXN0b3J5IjpbLTE0NjE3MDczODEsLTY2NzIyMjQ3NywtMT
+g5MzE5NTQwNiwtMTczNTI1NjQzMywtMTMxODM2NzM3MCw4NTg2
+MTIzNjIsMTAxNDg3MTYyOSw0MDM1NDkxMDUsLTU5NTc2NTExNF
+19
 -->
