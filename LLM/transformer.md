@@ -84,9 +84,20 @@ class Generator(nn.Module):
         return F.log_softmax(self.proj(x), dim=-1)
 ```
 
+针对 Transformer 的模型通用架构，我们可參考如下所示：
+
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/242.jpg)
+
+基于如上的 Transformer 深度学习模型的整体架构参考模型图，我们可以看到：它由两个主要组件组成：
+
+#### 1.编码器堆栈
+
+这是由 Nx 个相同的编码器层组成的堆栈(在原始论文中，Nx=6)。每个编码器层都由两个子层组成：多头自注意力机制和前馈神经网络。多头自注意力机制用于对输入序列中的不同位置之间的关系进行建模，而前馈神经网络则用于对每个位置进行非线性转换。编码器堆栈的作用是将输入序列转换为一系列高级特征表示。
+
+Transformer 编码器的整体架构。我们在 Transformer 编码器中使用绝对位置嵌入，具体可参考如下：
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDg3MTYyOSw0MDM1NDkxMDUsLTU5NT
-c2NTExNF19
+eyJoaXN0b3J5IjpbODU4NjEyMzYyLDEwMTQ4NzE2MjksNDAzNT
+Q5MTA1LC01OTU3NjUxMTRdfQ==
 -->
