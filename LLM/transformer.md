@@ -47,7 +47,11 @@ Transformer 架构是从 RNN(循环神经网络)的编码器-解码器架构中�
 
 不同于 RNN，Transformer 以并行化的方式处理数据，从而实现更大规模的并行计算和更快速的训练。这得益于 Transformer 架构中的自注意力机制，它使得模型能够同时考虑输入序列中的所有位置，而无需按顺序逐步处理。自注意力机制允许模型根据输入序列中的不同位置之间的关系，对每个位置进行加权处理，从而捕捉全局上下文信息。
 
+```c
+
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTc2NTExNF19
+eyJoaXN0b3J5IjpbNDAzNTQ5MTA1LC01OTU3NjUxMTRdfQ==
 -->
