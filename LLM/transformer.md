@@ -181,10 +181,37 @@ GPT-3 的性能提升得益于其庞大的参数规模和更先进的架构设�
 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/249.jpg)
 
 
+当然，除了上面的 2 个核心模型外，T5、BART 和 XLNet 也是 Transformer(Vaswani 等人，2017)家族的成员。这些模型利用 Transformer 的编码器、解码器或两者来进行语言理解或文本生成。由于篇幅原因，暂不在本篇博文中赘述。
+
+### 六、Transformer 模型并不是完美的
+
+与基于 RNN 的 seq2seq 模型相比，尽管 Transformer 模型在自然语言处理领域取得了巨大的成功，然而，其本身也存在一些局限性，主要包括以下几个方面：
+
+#### 1.高计算资源需求
+
+Transformer 模型通常需要大量的计算资源进行训练和推理。由于模型参数众多且复杂，需要显著的计算能力和存储资源来支持其运行，从而使得在资源受限的环境下应用 Transformer 模型变得相对困难。
+
+#### 2.长文本处理困难
+
+在某些特定的场景下，由于 Transformer 模型中自注意力机制的特性，其对于长文本的处理存在一定的困难。随着文本长度的增加，模型的计算复杂度和存储需求也会显著增加。因此，对于超长文本的处理，Transformer 模型可能会面临性能下降或无法处理的问题。
+
+#### 3.缺乏实际推理机制
+
+在实际的业务场景中，Transformer 模型通常是通过在大规模数据上进行预训练，然后在特定任务上进行微调来实现高性能，从而使得模型在实际推理过程中对于新领域或特定任务的适应性有限。因此，对于新领域或特定任务，我们往往需要进行额外的训练或调整，以提高模型的性能。
+
+#### 4.对训练数据的依赖性
+
+Transformer 模型在预训练阶段需要大量的无标签数据进行训练，这使得对于资源受限或特定领域数据稀缺的情况下应用 Transformer 模型变得困难。此外，模型对于训练数据的质量和多样性也有一定的依赖性，不同质量和领域的数据可能会对模型的性能产生影响。
+
+#### 5.缺乏常识推理和推理能力
+
+尽管 Transformer 模型在语言生成和理解任务上取得了显著进展，但其在常识推理和推理能力方面仍存在一定的局限性。模型在处理复杂推理、逻辑推断和抽象推理等任务时可能表现不佳，需要进一步的研究和改进。
+
+尽管存在这些局限性，Transformer 模型仍然是当前最成功和最先进的自然语言处理模型之一，为许多 NLP 任务提供了强大的解决方案。未来的研究和发展努力将有助于克服这些局限性，并推进自然语言处理领域的进一步发展。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA0ODkxNzIsLTE0NjE3MDczODEsLT
-Y2NzIyMjQ3NywtMTg5MzE5NTQwNiwtMTczNTI1NjQzMywtMTMx
-ODM2NzM3MCw4NTg2MTIzNjIsMTAxNDg3MTYyOSw0MDM1NDkxMD
-UsLTU5NTc2NTExNF19
+eyJoaXN0b3J5IjpbLTEyMDYxMjY2NzcsLTE2NDA0ODkxNzIsLT
+E0NjE3MDczODEsLTY2NzIyMjQ3NywtMTg5MzE5NTQwNiwtMTcz
+NTI1NjQzMywtMTMxODM2NzM3MCw4NTg2MTIzNjIsMTAxNDg3MT
+YyOSw0MDM1NDkxMDUsLTU5NTc2NTExNF19
 -->
