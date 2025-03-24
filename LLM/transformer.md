@@ -155,8 +155,9 @@ Transformer 解码器的整体架构，具体可参考如下所示：
 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/247.jpghttps://github.com/xiaohuidu/AI/blob/master/images/247.jpg)
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTY2Njg4LC0xNzM1MjU2NDMzLC0xMz
-E4MzY3MzcwLDg1ODYxMjM2MiwxMDE0ODcxNjI5LDQwMzU0OTEw
-NSwtNTk1NzY1MTE0XX0=
+eyJoaXN0b3J5IjpbLTM4NzM0Nzg5MCwtMTczNTI1NjQzMywtMT
+MxODM2NzM3MCw4NTg2MTIzNjIsMTAxNDg3MTYyOSw0MDM1NDkx
+MDUsLTU5NTc2NTExNF19
 -->
