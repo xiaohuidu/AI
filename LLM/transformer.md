@@ -47,11 +47,46 @@ Transformer 架构是从 RNN(循环神经网络)的编码器-解码器架构中�
 
 不同于 RNN，Transformer 以并行化的方式处理数据，从而实现更大规模的并行计算和更快速的训练。这得益于 Transformer 架构中的自注意力机制，它使得模型能够同时考虑输入序列中的所有位置，而无需按顺序逐步处理。自注意力机制允许模型根据输入序列中的不同位置之间的关系，对每个位置进行加权处理，从而捕捉全局上下文信息。
 
-```c
+```javascript
+class EncoderDecoder(nn.Module):
+    """
+    A standard Encoder-Decoder architecture. Base for this and many 
+    other models.
+    """
+    def __init__(self, encoder, decoder, src_embed, tgt_embed, generator):
+        super(EncoderDecoder, self).__init__()
+        self.encoder = encoder
+        self.decoder = decoder
+        self.src_embed = src_embed
+        self.tgt_embed = tgt_embed
+        self.generator = generator
+        
+    def forward(self, src, tgt, src_mask, tgt_mask):
+        "Take in and process masked src and target sequences."
+        return self.decode(self.encode(src, src_mask), src_mask,
+                            tgt, tgt_mask)
+    
+    def encode(self, src, src_mask):
+        return self.encoder(self.src_embed(src), src_mask)
+    
+    def decode(self, memory, src_mask, tgt, tgt_mask):
+        return self.decoder(self.tgt_embed(tgt), memory, src_mask, tgt_mask)
+```
 
+```javascript
+class Generator(nn.Module):
+    "Define standard linear + softmax generation step."
+    def __init__(self, d_model, vocab):
+        super(Generator, self).__init__()
+        self.proj = nn.Linear(d_model, vocab)
+
+    def forward(self, x):
+        return F.log_softmax(self.proj(x), dim=-1)
 ```
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNTQ5MTA1LC01OTU3NjUxMTRdfQ==
+eyJoaXN0b3J5IjpbMTAxNDg3MTYyOSw0MDM1NDkxMDUsLTU5NT
+c2NTExNF19
 -->
