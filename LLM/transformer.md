@@ -164,9 +164,20 @@ Transformer 解码器的整体架构，具体可参考如下所示：
 BERT 的核心思想是通过在大规模无标签的文本数据上进行预训练，使模型学习到丰富的语言表示。BERT 模型具备双向性，能够同时考虑一个词在上下文中的左侧和右侧信息，从而更好地捕捉词语的语义和语境。
 
 
+BERT 的成功标志着 Transformer 架构在 NLP 领域的重要地位，并在实际应用中取得了巨大的影响。它为自然语言处理领域带来了重大的进步，并为搜索引擎等应用提供了更准确、更智能的语义理解。
+
+#### 2.GPT-2 / GPT-3(生成预训练语言模型)
+
+生成式预训练 Transformer 2和3分别代表了最先进的自然语言处理模型。其中，GPT(Generative Pre-trained Transformer)是一种开源的 AI 模型，专注于处理自然语言处理(NLP)相关任务，如机器翻译、问答、文本摘要等。
+
+上述两个模型的最显著区别在于“规模”和“功能”。具体而言，GPT-3 是最新的模型，相比于 GPT-2，其引入了许多新的功能和改进。除此之外，GPT-3 的模型容量达到了惊人的 1750 亿个机器学习参数，而 GPT-2 只有 15 亿个参数。
+
+具备如此巨大的参数容量，GPT-3 在自然语言处理任务中展现出了令人惊叹的性能。它具备更强大的语言理解和生成能力，能够更准确地理解和生成自然语言文本。此外，GPT-3 在生成文本方面尤为出色，能够生成连贯、富有逻辑的文章、对话和故事。
+
+GPT-3 的性能提升得益于其庞大的参数规模和更先进的架构设计。它通过在大规模文本数据上进行预训练，使得模型能够学习到更深入、更全面的语言知识，从而使得 GPT-3 能够成为目前最强大、最先进的生成式预训练 Transformer 模型之一。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTMxOTU0MDYsLTE3MzUyNTY0MzMsLT
-EzMTgzNjczNzAsODU4NjEyMzYyLDEwMTQ4NzE2MjksNDAzNTQ5
-MTA1LC01OTU3NjUxMTRdfQ==
+eyJoaXN0b3J5IjpbLTIxMTE4NTUyNTksLTE4OTMxOTU0MDYsLT
+E3MzUyNTY0MzMsLTEzMTgzNjczNzAsODU4NjEyMzYyLDEwMTQ4
+NzE2MjksNDAzNTQ5MTA1LC01OTU3NjUxMTRdfQ==
 -->
