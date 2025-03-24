@@ -152,10 +152,11 @@ Transformer 解码器的整体架构，具体可参考如下所示：
 
 截止目前，Transformer 是构建世界上大多数最先进模型的主要架构之一。它在各个领域取得了巨大成功，包括但不限于以下任务：语音识别到文本转换、机器翻译、文本生成、释义、问答和情感分析。这些任务中涌现出了一些最优秀和最著名的模型。
 
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/247.jpghttps://github.com/xiaohuidu/AI/blob/master/images/247.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ0NzY0MzcsLTE3MzUyNTY0MzMsLT
-EzMTgzNjczNzAsODU4NjEyMzYyLDEwMTQ4NzE2MjksNDAzNTQ5
-MTA1LC01OTU3NjUxMTRdfQ==
+eyJoaXN0b3J5IjpbMTQ0OTY2Njg4LC0xNzM1MjU2NDMzLC0xMz
+E4MzY3MzcwLDg1ODYxMjM2MiwxMDE0ODcxNjI5LDQwMzU0OTEw
+NSwtNTk1NzY1MTE0XX0=
 -->
