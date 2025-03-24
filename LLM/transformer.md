@@ -19,6 +19,27 @@ Transformer 模型通过自注意力机制和并行计算的优势，能够更�
 除此之外，Transformer 模型的突破性表现使得它成为现代 NLP 研究和应用中的重要组成部分。它能够捕捉复杂的语义关系和上下文信息，极大地推动了自然语言处理的发展。
 
 
+Transformer 在神经网络中的历史可以追溯到20世纪90年代初，当时 Jürgen Schmidhuber 提出了第一个 Transformer 模型的概念。这个模型被称为"快速权重控制器"，它采用了自注意力机制来学习句子中单词之间的关系。然而，尽管这个早期的 Transformer 模型在概念上是先进的，但由于其效率较低，它并未得到广泛的应用。
+
+随着时间的推移和深度学习技术的发展，Transformer 在2017年的一篇开创性论文中被正式引入，并取得了巨大的成功。通过引入自注意力机制和位置编码层，有效地捕捉输入序列中的长距离依赖关系，并且在处理长序列时表现出色。此外，Transformer 模型的并行化计算能力也使得训练速度更快，推动了深度学习在自然语言处理领域的重大突破，如机器翻译任务中的BERT(Bidirectional Encoder Representations from Transformers)模型等。
+
+因此，尽管早期的"快速权重控制器"并未受到广泛应用，但通过 Vaswani 等人的论文，Transformer 模型得到了重新定义和改进，成为现代深度学习的前沿技术之一，并在自然语言处理等领域取得了令人瞩目的成就。
+
+Transformer 之所以如此成功，是因为它能够学习句子中单词之间的长距离依赖关系，这对于许多自然语言处理(NLP)任务至关重要，因为它允许模型理解单词在句子中的上下文。Transformer 利用自注意力机制来实现这一点，该机制使得模型在解码输出标记时能够聚焦于句子中最相关的单词。
+
+Transformer 对 NLP 领域产生了重大影响。它现在被广泛应用于许多 NLP 任务，并且不断进行改进。未来，Transformer 很可能被用于解决更广泛的 NLP 任务，并且它们将变得更加高效和强大。
+
+有关神经网络 Transformer 历史上的一些关键发展事件，我们可参考如下所示：
+
+-   1990年：Jürgen Schmidhuber 提出了第一个 Transformer 模型，即"快速权重控制器"。
+-   2017年：Vaswani 等人发表了论文《Attention is All You Need》，介绍了 Transformer 模型的核心思想。
+-   2018年：Transformer 模型在各种 NLP 任务中取得了最先进的结果，包括机器翻译、文本摘要和问答等。
+-   2019年：Transformer 被用于创建大型语言模型(LLM)，例如 BERT 和 GPT-2，这些模型在各种 NLP 任务中取得了重要突破。
+-   2020年：Transformer 继续被用于创建更强大的模型，例如 GPT-3，它在自然语言生成和理解方面取得了惊人的成果。
+
+总的来说，Transformer 模型的引入对于 NLP 领域产生了革命性的影响。它的能力在于学习长距离依赖关系并理解上下文，使得它成为众多 NLP 任务的首选方法，并为未来的发展提供了广阔的可能性。
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTI4OTU2NV19
+eyJoaXN0b3J5IjpbLTY0NjMwMzYyN119
 -->
