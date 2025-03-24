@@ -96,6 +96,7 @@ class Generator(nn.Module):
 
 Transformer 编码器的整体架构。我们在 Transformer 编码器中使用绝对位置嵌入，具体可参考如下：
 
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/243.jpg)
 
 
 #### 2.解码器堆栈
@@ -122,6 +123,6 @@ Transformer 解码器的整体架构，具体可参考如下所示：
 然而，需要注意的是，Transformer 神经网络取代了早期的循环神经网络(RNN)、长短期记忆(LSTM)和门控循环单元(GRU)等模型，成为了更为先进和有效的选择。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMzQxNTI0LDg1ODYxMjM2MiwxMDE0OD
-cxNjI5LDQwMzU0OTEwNSwtNTk1NzY1MTE0XX0=
+eyJoaXN0b3J5IjpbLTE2MjIwNjgxMjMsODU4NjEyMzYyLDEwMT
+Q4NzE2MjksNDAzNTQ5MTA1LC01OTU3NjUxMTRdfQ==
 -->
