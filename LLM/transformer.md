@@ -155,9 +155,18 @@ Transformer 解码器的整体架构，具体可参考如下所示：
 ![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/247.jpghttps://github.com/xiaohuidu/AI/blob/master/images/247.jpg)
 
 
+#### 1.BERT(双向编码器表示的 Transformer )
+
+作为一种由 Google 设计的技术，针对自然语言处理而开发，基于预训练的 Transformer 模型，当前被广泛应用于各种 NLP 任务中。
+
+在此项技术中，双向编码器表示转化为了自然语言处理的重要里程碑。通过预训练的 Transformer 模型，双向编码器表示(BERT)在自然语言理解任务中取得了显著的突破。BERT 的意义如此重大，以至于在 2020 年，几乎每个英语查询在 Google 搜索引擎中都采用了 BERT 技术。
+
+BERT 的核心思想是通过在大规模无标签的文本数据上进行预训练，使模型学习到丰富的语言表示。BERT 模型具备双向性，能够同时考虑一个词在上下文中的左侧和右侧信息，从而更好地捕捉词语的语义和语境。
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzM0Nzg5MCwtMTczNTI1NjQzMywtMT
-MxODM2NzM3MCw4NTg2MTIzNjIsMTAxNDg3MTYyOSw0MDM1NDkx
-MDUsLTU5NTc2NTExNF19
+eyJoaXN0b3J5IjpbLTE4OTMxOTU0MDYsLTE3MzUyNTY0MzMsLT
+EzMTgzNjczNzAsODU4NjEyMzYyLDEwMTQ4NzE2MjksNDAzNTQ5
+MTA1LC01OTU3NjUxMTRdfQ==
 -->
