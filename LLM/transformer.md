@@ -178,9 +178,13 @@ BERT 的成功标志着 Transformer 架构在 NLP 领域的重要地位，并在
 
 GPT-3 的性能提升得益于其庞大的参数规模和更先进的架构设计。它通过在大规模文本数据上进行预训练，使得模型能够学习到更深入、更全面的语言知识，从而使得 GPT-3 能够成为目前最强大、最先进的生成式预训练 Transformer 模型之一。
 
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/249.jpg)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE3MDczODEsLTY2NzIyMjQ3NywtMT
-g5MzE5NTQwNiwtMTczNTI1NjQzMywtMTMxODM2NzM3MCw4NTg2
-MTIzNjIsMTAxNDg3MTYyOSw0MDM1NDkxMDUsLTU5NTc2NTExNF
-19
+eyJoaXN0b3J5IjpbLTE2NDA0ODkxNzIsLTE0NjE3MDczODEsLT
+Y2NzIyMjQ3NywtMTg5MzE5NTQwNiwtMTczNTI1NjQzMywtMTMx
+ODM2NzM3MCw4NTg2MTIzNjIsMTAxNDg3MTYyOSw0MDM1NDkxMD
+UsLTU5NTc2NTExNF19
 -->
