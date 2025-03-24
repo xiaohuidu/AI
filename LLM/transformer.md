@@ -163,6 +163,8 @@ Transformer 解码器的整体架构，具体可参考如下所示：
 
 BERT 的核心思想是通过在大规模无标签的文本数据上进行预训练，使模型学习到丰富的语言表示。BERT 模型具备双向性，能够同时考虑一个词在上下文中的左侧和右侧信息，从而更好地捕捉词语的语义和语境。
 
+![enter image description here](https://github.com/xiaohuidu/AI/blob/master/images/248.jpg)
+
 
 BERT 的成功标志着 Transformer 架构在 NLP 领域的重要地位，并在实际应用中取得了巨大的影响。它为自然语言处理领域带来了重大的进步，并为搜索引擎等应用提供了更准确、更智能的语义理解。
 
@@ -177,7 +179,7 @@ BERT 的成功标志着 Transformer 架构在 NLP 领域的重要地位，并在
 GPT-3 的性能提升得益于其庞大的参数规模和更先进的架构设计。它通过在大规模文本数据上进行预训练，使得模型能够学习到更深入、更全面的语言知识，从而使得 GPT-3 能够成为目前最强大、最先进的生成式预训练 Transformer 模型之一。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE4NTUyNTksLTE4OTMxOTU0MDYsLT
-E3MzUyNTY0MzMsLTEzMTgzNjczNzAsODU4NjEyMzYyLDEwMTQ4
-NzE2MjksNDAzNTQ5MTA1LC01OTU3NjUxMTRdfQ==
+eyJoaXN0b3J5IjpbLTY2NzIyMjQ3NywtMTg5MzE5NTQwNiwtMT
+czNTI1NjQzMywtMTMxODM2NzM3MCw4NTg2MTIzNjIsMTAxNDg3
+MTYyOSw0MDM1NDkxMDUsLTU5NTc2NTExNF19
 -->
